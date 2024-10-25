@@ -2,6 +2,7 @@ LaTeX_bits
 ==========
 
 Various LaTeX files that may be useful
+Based on @sebspain's repository.
 
 EPSRC Template
 --------------
